@@ -19,7 +19,7 @@ function NavigationBar() {
             
             <Dropdown >
             <Dropdown.Toggle variant="success">
-            <AiOutlineShoppingCart color="black" fontsize="50px"/>
+            <AiOutlineShoppingCart color="black" fontSize="50px"/>
             <Badge bg="light">{10}</Badge> 
             </Dropdown.Toggle>
 
